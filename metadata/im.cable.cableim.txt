@@ -1,0 +1,11 @@
+Categories:Internet
+License:GPL-3.0
+Web Site:https://cable.im/
+Source Code:https://github.com/CableIM/Cable-Android
+Issue Tracker:https://github.com/CableIM/Cable-Android/issues
+Changelog:
+Summary:Cable
+Description:
+A private messenger with no propritary dependencies
+and with minimal reliance on commercial services.
+.
